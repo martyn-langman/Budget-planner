@@ -1,5 +1,5 @@
 // Offline support. Bump VERSION whenever you change any file so phones pick up the update.
-const VERSION = 'budget-v1';
+const VERSION = 'budget-v3';
 const SHELL = [
   './',
   './index.html',
